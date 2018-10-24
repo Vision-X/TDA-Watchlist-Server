@@ -1,0 +1,24 @@
+{
+  "name": "discordstockbot",
+  "version": "1.0.0",
+  "description": "Starter bot template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vision-X/DiscordStockBot.git"
+  },
+  "author": "Michael Marlow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vision-X/DiscordStockBot/issues"
+  },
+  "homepage": "https://github.com/Vision-X/DiscordStockBot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.1.0"
+  }
+}
