@@ -1,0 +1,855 @@
+[ {
+  "name" : "Rapid Growth Spec",
+  "watchlistId" : "1174500452",
+  "accountId" : "865171501",
+  "watchlistItems" : [ {
+    "sequenceId" : 1,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "OLLI",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 2,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "DTEA",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 3,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "HEAR",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 4,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "FIT",
+      "assetType" : "EQUITY"
+    }
+  } ]
+}, {
+  "name" : "Spec Swing",
+  "watchlistId" : "1171446968",
+  "accountId" : "865171501",
+  "watchlistItems" : [ {
+    "sequenceId" : 1,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "AVGR",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 2,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CVM",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 3,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "ASNS",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 4,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "MYSZ",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 5,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "SLS",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 6,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CLOW",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 7,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "EVFM",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 8,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "PTIE",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 9,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "TRVN",
+      "assetType" : "EQUITY"
+    }
+  } ]
+}, {
+  "name" : "CRISPR",
+  "watchlistId" : "1163171986",
+  "accountId" : "865171501",
+  "watchlistItems" : [ {
+    "sequenceId" : 1,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "EDIT",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 2,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "NTLA",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 3,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CRSP",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 4,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "REGN",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 5,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "AMRS",
+      "assetType" : "EQUITY"
+    }
+  } ]
+}, {
+  "name" : "Cannabis Stocks",
+  "watchlistId" : "1171437304",
+  "accountId" : "865171501",
+  "watchlistItems" : [ {
+    "sequenceId" : 1,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "RVLT",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 2,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "KSHB",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 3,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "TGODF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 4,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CGC",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 5,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "ERBB",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 6,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "HEMP",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 7,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "GWPH",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 8,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "VVCIF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 9,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "PHOT",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 10,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "APHQF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 11,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "NEPT",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 12,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CBIS",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 13,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CRBP",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 14,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "TLRY",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 15,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "BUDZ",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 16,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "IGXT",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 17,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "VBIO",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 18,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CNNRF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 19,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "IGC",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 20,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "NTEC",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 21,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "ACBFF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 22,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CANB",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 23,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "NBEV",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 24,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "TCNNF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 25,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "LHSIF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 26,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "NOUV",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 27,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "PURA",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 28,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "SPLIF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 29,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "TRTC",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 30,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "GRNH",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 31,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "ICNAF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 32,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "LEVB",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 33,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "GTBIF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 34,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "WTER",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 35,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "MMNFF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 36,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "MJNA",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 37,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "ASNT",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 38,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "HIPH",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 39,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "ALEAF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 40,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CIIX",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 41,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "MPXEF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 42,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CANN",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 43,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "MLHC",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 44,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "PYX",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 45,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "AMMJ",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 46,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "HYYDF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 47,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "PVOTF",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 48,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "NTFU",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 49,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "YGYI",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 50,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "CNBX",
+      "assetType" : "EQUITY"
+    }
+  } ]
+}, {
+  "name" : "Indices",
+  "watchlistId" : "196808166",
+  "accountId" : "865171501",
+  "watchlistItems" : [ {
+    "sequenceId" : 1,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "$DJI",
+      "assetType" : "INDEX"
+    }
+  }, {
+    "sequenceId" : 2,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "SPX",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 3,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "COMP",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 4,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "VIX",
+      "assetType" : "EQUITY"
+    }
+  } ]
+}, {
+  "name" : "1",
+  "watchlistId" : "197341902",
+  "accountId" : "865171501",
+  "watchlistItems" : [ {
+    "sequenceId" : 1,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "FB",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 2,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "SEA",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 3,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "VUZI",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 4,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "ABIO",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 5,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "DCTH",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 6,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "HIMX",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 7,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "TTWO",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 8,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "SPY",
+      "assetType" : "EQUITY"
+    }
+  } ]
+}, {
+  "name" : "Spec Long",
+  "watchlistId" : "1171439959",
+  "accountId" : "865171501",
+  "watchlistItems" : [ {
+    "sequenceId" : 1,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "DRYS",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 2,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "BLPH",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 3,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "AVGR",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 4,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "FNKO",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 5,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "INNT",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 6,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "UIS",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 7,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "MRGE",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 8,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "GLUU",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 9,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "HBAN",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 10,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "INTC",
+      "assetType" : "EQUITY"
+    }
+  }, {
+    "sequenceId" : 11,
+    "quantity" : 0.0,
+    "averagePrice" : 0.0,
+    "commission" : 0.0,
+    "instrument" : {
+      "symbol" : "AMD",
+      "assetType" : "EQUITY"
+    }
+  } ]
+} ]
